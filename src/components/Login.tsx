@@ -63,7 +63,7 @@ const Login = () => {
             </label>
           </div>
           <div className="mb-10">
-            <Button label="Login" onClick={handleLogin} />
+            <Button  label="Sign In" onClick={handleLogin} />
           </div>
 
           <div className="flex justify-between align-middle gap-6 mb-10">
